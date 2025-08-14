@@ -8,8 +8,8 @@ Backend: Node.JS, PostgreSQL, MySQL,
 
 Frontend: React, JavaScript, HTML, CSS, Tailwind CSS
 
-Tools: Git, GitHub, VS Code, npm,Figma, Postman
+Tools: Git, GitHub, VS Code, npm,Figma, Postman,bootstrap Css
 
 ## 🌱 Currently Learning
 
-Advance javaScript
+Advanced javaScript
